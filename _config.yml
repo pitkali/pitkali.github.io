@@ -1,1 +1,5 @@
 theme: jekyll-theme-slate
+title: The Blog of Kali
+description: On software, universe, and everything else
+
+show_downloads: false
